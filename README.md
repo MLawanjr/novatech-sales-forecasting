@@ -29,5 +29,6 @@ Results
 The Naïve forecasting model provides a simple baseline for predicting short-term sales trends. It can assist NovaTech management in planning inventory levels and operational decisions.
 
  Files Included
+- Pdf File Stating the challenge
 - Excel forecasting sheet
 - PowerPoint presentation summarizing the analysis
